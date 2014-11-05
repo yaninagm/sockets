@@ -14,7 +14,7 @@ import java.net.*;
  */
 public class Socket_Server {
 
-    static final int portNumber = 25;
+    static final int portNumber = 5500;
 
     /**
      * @param args the command line arguments
